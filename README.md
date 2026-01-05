@@ -103,4 +103,26 @@ cd Expense-Tracker-API
 
 # Run application
 mvn spring-boot:run
+```
 ➡️ Server runs on: http://localhost:8080
+## 🌟 Why This Project Matters
+
+This project demonstrates:
+
+- Real-world backend engineering skills  
+- Secure API design using **JWT authentication**  
+- Hands-on experience with **database optimization**  
+- Production-level **REST API architecture**
+
+It reflects how scalable backend systems are built in **modern enterprise applications**.
+
+---
+
+## 👤 Author
+
+**Pranav Singh**  
+Final-year B.Tech CSE Student | Backend-focused Developer  
+
+🔗 **GitHub:** https://github.com/Pranavsi7  
+🔗 **LinkedIn:** https://www.linkedin.com/in/pranav-singh-8a802424b/
+
